@@ -9,7 +9,7 @@ Hello there! 👋 I'm Vasco, a passionate software engineer and researcher. Here
 ### Red Rover
 **Description:** Red Rover connects institutional investors and corporate leaders with members of Generation Z, leveraging Gen Z’s technological savvy to bring you immediate answers to custom survey questions.
 - **Technologies Used:** JavaScript, TypeScript, React, Next.js, jsPDF, Firebase, and other API integrations for payment systems (e.g., Venmo, PayPal).
-- ![Red Rover Image]((https://redrovernetwork.com/wp-content/uploads/2021/08/logo_smaller.png))
+- ![Red Rover Image](https://redrovernetwork.com/wp-content/uploads/2021/08/logo_smaller.png)
 - [Download on the App Store!]([https://apps.apple.com/us/app/red-rover-network/id6446793601])
 - **Last Updated:** September 14, 2023
 
@@ -23,7 +23,7 @@ Hello there! 👋 I'm Vasco, a passionate software engineer and researcher. Here
 ### Vanderbilt Acorns
 **Description:** VandyHacks IX Project by Vasco Singh, JP Higgins, and Jason Hedman.
 - **Technologies Used:** [Specify Technologies Used]
-- ![DIALLELUS Image]((https://i.imgur.com/UoU2Jwq.png))
+- ![DIALLELUS Image](https://i.imgur.com/UoU2Jwq.png)
 - [Link to Repository](https://github.com/jasonhedman/vanderbilt-acorns/tree/main)
 - **Last Updated:** Oct 21, 2022
 
