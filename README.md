@@ -4,13 +4,14 @@ Hello there! 👋 I'm Vasco, a passionate software engineer and researcher. Here
 
 ---
 
-## Highlighted Projects
-
 <div style="text-align:center;">
     <img src="https://i.imgur.com/wa0AKwW.jpg" alt="Red Rover App Icon" width="100">
 </div>
 
-### Red Rover
+<div align="center">
+
+### **<u>Red Rover</u>**
+
 **Description:** Red Rover connects institutional investors and corporate leaders with members of Generation Z, leveraging Gen Z’s technological savvy to bring you immediate answers to custom survey questions.
 - **Technologies Used:** JavaScript, TypeScript, React, Next.js, jsPDF, Firebase, and other API integrations for payment systems (e.g., Venmo, PayPal).
 <div style="display: flex; justify-content: center;">
