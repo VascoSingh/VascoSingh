@@ -27,8 +27,8 @@ Hello there! 👋 I'm Vasco, a passionate software engineer and researcher. Here
 
 - **Technologies Used:** MATLAB, nd2reader, writeFCS, MIB2, BioFormats
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://i.imgur.com/Zywieok.jpg" alt="BRONK Image" width="400" style="margin-right:10px;">
-    <img src="https://i.imgur.com/PzMwlXB.jpg" alt="BRONK Additional Image" width="400">
+    <img src="https://i.imgur.com/PzMwlXB.jpg" alt="BRONK Additional Image" width="400" style="margin-right:20px;">
+    <img src="https://i.imgur.com/Zywieok.jpg" alt="BRONK Image" width="400" style="margin-left:10px;">
 </div>
 - [Link to Repository](https://github.com/VascoSingh/BRONK)
 - **Last Updated:** April 26, 2022
