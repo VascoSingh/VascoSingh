@@ -21,10 +21,12 @@ Hello there! 👋 I'm Vasco, a passionate software engineer and researcher. Here
 - [Download on the App Store!]([https://apps.apple.com/us/app/red-rover-network/id6446793601])
 - **Last Updated:** September 14, 2023
 
-### BRONK
-**Description:** An Open-Source Cell Segmentation Software for Single-Cell Tracking and Analysis.
+### **<u>BRONK</u>**
+
+**Overview:** BRONK leverages fluorescent confocal microscopy and MATLAB for high-throughput cell analysis. Enhancements to existing image processing code allow multi-channel cell segmentation, endosomal escape detection, and integration with cell tracking software. Focusing on the challenge of endosomal escape in intracellular drug delivery, the suite quantifies Galactin-8 puncta, indicative of endosomal disruption, bridging the gap between high-content microscopy data and actionable insights.
+
 - **Technologies Used:** MATLAB, nd2reader, writeFCS, MIB2, BioFormats
-- ![BRONK Image](https://i.imgur.com/Zywieok.jpg)
+- <img src="https://i.imgur.com/Zywieok.jpg" alt="BRONK Image" width="100"> <!-- Adjusted the width to make the image smaller -->
 - [Link to Repository](https://github.com/VascoSingh/BRONK)
 - **Last Updated:** April 26, 2022
 
