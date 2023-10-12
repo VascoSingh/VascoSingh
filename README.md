@@ -9,10 +9,10 @@ Hello there! 👋 I'm Vasco, a passionate software engineer and researcher. Here
 ### Red Rover
 **Description:** Red Rover connects institutional investors and corporate leaders with members of Generation Z, leveraging Gen Z’s technological savvy to bring you immediate answers to custom survey questions.
 - **Technologies Used:** JavaScript, TypeScript, React, Next.js, jsPDF, Firebase, and other API integrations for payment systems (e.g., Venmo, PayPal).
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://imgur.com/Tl25go4.jpg" alt="Red Rover Screenshot 1" width="150" style="margin-right:5px;">
-    <img src="https://i.imgur.com/X32oSwz.jpg" alt="Red Rover Screenshot 2" width="150" style="margin-right:5px;">
-    <img src="https://i.imgur.com/hFaNQrI.jpg" alt="Red Rover Screenshot 3" width="150" style="margin-right:5px;">
+<div style="display: flex; justify-content: center;">
+    <img src="https://imgur.com/Tl25go4.jpg" alt="Red Rover Screenshot 1" width="150" style="margin-right:10px;">
+    <img src="https://i.imgur.com/X32oSwz.jpg" alt="Red Rover Screenshot 2" width="150" style="margin-right:10px;">
+    <img src="https://i.imgur.com/hFaNQrI.jpg" alt="Red Rover Screenshot 3" width="150" style="margin-right:10px;">
     <img src="https://i.imgur.com/ET2RW68.jpg" alt="Red Rover Screenshot 4" width="150">
   </div>
 - [Download on the App Store!]([https://apps.apple.com/us/app/red-rover-network/id6446793601])
