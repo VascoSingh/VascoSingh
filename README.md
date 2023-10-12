@@ -8,8 +8,6 @@ Hello there! 👋 I'm Vasco, a passionate software engineer and researcher. Here
     <img src="https://i.imgur.com/wa0AKwW.jpg" alt="Red Rover App Icon" width="100">
 </div>
 
-<div align="center">
-
 ### **<u>Red Rover</u>**
 
 **Description:** Red Rover connects institutional investors and corporate leaders with members of Generation Z, leveraging Gen Z’s technological savvy to bring you immediate answers to custom survey questions.
