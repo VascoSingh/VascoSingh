@@ -11,9 +11,9 @@ Hello there! 👋 I'm Vasco, a passionate software engineer and researcher. Here
 - **Technologies Used:** JavaScript, TypeScript, React, Next.js, jsPDF, Firebase, and other API integrations for payment systems (e.g., Venmo, PayPal).
 <div style="display: flex; justify-content: space-between;">
     <img src="https://imgur.com/Tl25go4.jpg" alt="Red Rover Screenshot 1" width="150" style="margin-right:5px;">
-    <img src="https://i.imgur.com/zPifuMw.jpg" alt="Red Rover Screenshot 2" width="150" style="margin-right:5px;">
-    <img src="https://i.imgur.com/jVTXK9L.jpg" alt="Red Rover Screenshot 3" width="150" style="margin-right:5px;">
-    <img src="https://i.imgur.com/XWp5mx3.jpg" alt="Red Rover Screenshot 4" width="150">
+    <img src="https://i.imgur.com/X32oSwz.jpg" alt="Red Rover Screenshot 2" width="150" style="margin-right:5px;">
+    <img src="https://i.imgur.com/hFaNQrI.jpg" alt="Red Rover Screenshot 3" width="150" style="margin-right:5px;">
+    <img src="https://i.imgur.com/ET2RW68.jpg" alt="Red Rover Screenshot 4" width="150">
   </div>
 - [Download on the App Store!]([https://apps.apple.com/us/app/red-rover-network/id6446793601])
 - **Last Updated:** September 14, 2023
