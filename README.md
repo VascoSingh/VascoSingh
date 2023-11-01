@@ -31,7 +31,7 @@ Hello there! 👋 I'm Vasco, a passionate software engineer and researcher. Here
 **Description:** ChatEDU is an innovative AI-driven interactive tutoring platform that revolutionizes the way students learn. It offers personalized, real-time academic support, making education accessible and engaging for students everywhere.
 - **Technologies Used:** Next.js + React, GPT-4 + Vercel AI SDK, Firebase Authentication and Firestore, ChakraUI
 <div style="display: flex; justify-content: center;">
-    <img src="https://imgur.com/FhoV4ec.jpg" alt="ChatEDU Screenshot 1" width="150" style="margin-right:10px;">
+    <img src="https://imgur.com/FhoV4ec.jpg" alt="ChatEDU Screenshot 1" width="600" style="margin-right:10px;">
 </div>
 - [Visit ChatEDU!]([https://chatedu.tech/])
 - **Last Updated:** November 1, 2023
