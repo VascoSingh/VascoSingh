@@ -19,7 +19,22 @@ Hello there! 👋 I'm Vasco, a passionate software engineer and researcher. Here
     <img src="https://i.imgur.com/ET2RW68.jpg" alt="Red Rover Screenshot 4" width="150">
   </div>
 - [Download on the App Store!]([https://apps.apple.com/us/app/red-rover-network/id6446793601])
-- **Last Updated:** September 14, 2023
+- **Last Updated:** October 30, 2023
+
+
+<div style="text-align:center;">
+    <img src="https://imgur.com/RKCBLTY.png" alt="ChatEDU App Icon" width="100">
+</div>
+
+### **<u>ChatEDU</u>**
+
+**Description:** ChatEDU is an innovative AI-driven interactive tutoring platform that revolutionizes the way students learn. It offers personalized, real-time academic support, making education accessible and engaging for students everywhere.
+- **Technologies Used:** Next.js + React, GPT-4 + Vercel AI SDK, Firebase Authentication and Firestore, ChakraUI
+<div style="display: flex; justify-content: center;">
+    <img src="https://imgur.com/FhoV4ec.jpg" alt="ChatEDU Screenshot 1" width="150" style="margin-right:10px;">
+</div>
+- [Visit ChatEDU!]([https://chatedu.tech/])
+- **Last Updated:** November 1, 2023
 
 ### **<u>BRONK</u>**
 
